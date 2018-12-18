@@ -1,2 +1,2 @@
-# HTMLCSS
+# HTML, CSS
 Pottfolio
